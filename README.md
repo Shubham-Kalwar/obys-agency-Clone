@@ -32,20 +32,18 @@ obys-agency-Clone/
 ├── style.css        # Stylesheet
 
 ````
-
 ---
 
 ## ⚙️ Setup & Usage
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Shubham-Kalwar/obys-agency-Clone.git
-````
 
-2. Navigate into the project folder:
+2. git clone https://github.com/Shubham-Kalwar/obys-agency-Clone.git
+
+3. Navigate into the project folder:
 
    cd obys-agency-Clone
    
-3. Open `index.html` directly in your browser **or** run a local server:
+4. Open `index.html` directly in your browser **or** run a local server:
 
    npx live-server
 
@@ -76,5 +74,4 @@ This project was built to:
 This project is made for **educational purposes only**.
 All credits for the original design go to **[Obys Agency](https://obys.agency/)**.
 
-```
-
+---
