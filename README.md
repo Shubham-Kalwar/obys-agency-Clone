@@ -63,7 +63,7 @@ This project was built to:
 ## 📬 Contact
 
 👤 **Shubham-Kalwar**
-- [Email](shubhamkalwar198@gmail.com)
+-  shubhamkalwar198@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/shubham-kalwar-b74145339)
 - [GitHub](https://github.com/Shubham-Kalwar)
 
